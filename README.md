@@ -1,4 +1,4 @@
-![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
+
 <h1 align="center">Hi 👋, I'm BILAL OUMEHDI</h1>
 <h3 align="center">A passionate software engineering student from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -13,10 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bilaloumehdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bilaloumehdi" height="30" width="40" /></a><br>
 <a href="https://linkedin.com/in/bilal oumehdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilal oumehdi" height="30" width="40" /></a><br>
-<a href="https://fb.com/bilal oumehdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bilal oumehdi" height="30" width="40" /></a><br>
-<a href="https://www.leetcode.com/bilaloumehdi01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bilaloumehdi01" height="30" width="40" /></a><br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
