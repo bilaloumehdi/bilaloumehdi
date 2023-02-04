@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilaloum&label=Profile%20views&color=0e75b6&style=flat" alt="bilaloum" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bilaloumehdi" target="blank"><img src="https://img.shields.io/twitter/follow/bilaloumehdi?logo=twitter&style=for-the-badge" alt="bilaloumehdi" /></a> </p>
 
 - 💬 Ask me 
 
