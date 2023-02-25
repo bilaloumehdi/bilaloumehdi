@@ -6,8 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilaloum&label=Profile%20views&color=0e75b6&style=flat" alt="bilaloum" /> </p>
 
 
-- 💬 Ask me 
-
 - 📫 How to reach me **bilaloumehdi01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
