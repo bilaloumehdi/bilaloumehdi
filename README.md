@@ -38,12 +38,11 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 --> 
-<p> <img display="inline" align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
 <p>&nbsp;
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilaloumehdi&show_icons=true&locale=en&layout=compact" alt="bilaloumehdi" /> 
 </p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=bilaloumehdi&show_icons=true&locale=en" alt="bilaloumehdi" /></p>
 <!-- align="center" was for the image bellow --> 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bilaloumehdi&" alt="bilaloumehdi" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bilaloumehdi&" alt="bilaloumehdi" /></p>
 </div>
 
